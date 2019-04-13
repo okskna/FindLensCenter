@@ -17,7 +17,7 @@ Use 'regression analysis' to find the center of the digital lens.
 
 - Original
 
-![](5M Image/1.jpeg)
+![](5MImage/1.jpeg)
 
 - Preprocessing
 
